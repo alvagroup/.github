@@ -3,8 +3,9 @@
 Organization default files for `alvagroup`. GitHub uses a file here for every
 repository in the organization that has no file of its own with the same name.
 
-This repository holds one file: `.github/pull_request_template.md`, the PR
-template for every alvagroup repository. **This is the only copy: change it
+The only organization default here is `.github/pull_request_template.md`, the
+PR template for every alvagroup repository (`.github/CODEOWNERS` governs this
+repository only). **This is the only copy: change it
 here, by pull request.** A repository that adds its own
 `.github/pull_request_template.md` replaces it entirely, so add one only for a
 deliberate override (`reporting-agent` has one). `scaffold/` and
